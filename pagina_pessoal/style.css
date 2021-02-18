@@ -1,0 +1,97 @@
+.profile_picture    {
+    border: 1px solid black;
+    border-radius: 80%;
+    border-bottom-right-radius: 10%;
+}
+
+#title  {
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+
+body    {
+    background: #eeeeee;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 1200px;
+    margin: auto
+}
+
+p{
+    text-indent: 2em;
+    text-align: justify;
+}
+
+.subtitle, .profile, .contact {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(74, 74, 77);
+    font-size: 20px;
+}
+
+a   {
+    color: #747474;
+    text-decoration: 0;
+}
+
+.post_title {
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.photo_post {
+    border-radius: 10%;
+    float: left;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.post   {
+    background: #ffffff;
+    padding: 10px;
+    padding-top: 0;
+    border-top: 0.5px dashed black;
+    border-bottom: 0.5px dashed black;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.article    {
+    margin: 5px 0 5px 0;
+}
+.post_title     {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contact   {
+    margin: 5px;
+}
+
+ul  {
+    list-style-type: none;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+li  {
+    text-align: center;
+}
+
+.gmail_logo, .linkedin_logo, .github_logo, .gmaps_logo  {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-tra
+}
